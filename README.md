@@ -74,4 +74,4 @@ python 이미지_분류_딥러닝_모델.py
 
 ## 🏅 Background
 
-This work was developed for the 2025 Smart Agriculture Hackathon. It contributes to sustainable farming by enabling automated, crop-specific disease detection to assist elderly farmers with limited physical capacity.
+This work was developed for the 2024 Dankook University Hackathon. It contributes to sustainable farming by enabling automated, crop-specific disease detection to assist elderly farmers with limited physical capacity.
